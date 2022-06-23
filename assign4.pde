@@ -32,7 +32,7 @@ float playerX, playerY;
 int playerCol, playerRow;
 final float PLAYER_INIT_X = 4 * SOIL_SIZE;
 final float PLAYER_INIT_Y = - SOIL_SIZE;
-boolean leftState = false;
+boolean leftState = false
 boolean rightState = false;
 boolean downState = false;
 int playerHealth = 2;
